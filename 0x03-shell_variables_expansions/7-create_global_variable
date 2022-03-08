@@ -1,1 +1,2 @@
--d #!/bin/bash\nexport School = BEST 
+#!/bin/bash
+export School=BEST
